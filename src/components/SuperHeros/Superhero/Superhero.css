@@ -1,0 +1,22 @@
+.hero {
+  background-color: rgb(30, 98, 161);
+  padding: 10px;
+}
+
+.hero h2 {
+  text-align: center;
+}
+
+.hero img {
+  width: 15vw;
+  height: 15vw;
+  display: block;
+  border-radius: 50%;
+  margin: 0 auto 15px auto;
+  
+}
+
+.heroPrefere {
+  background-color: rgb;
+  padding: 10px;
+}
